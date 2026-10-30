@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.DS_Store
+claude-remotion-skill/
+.hallmark/
+.claude/
+.agents/
+demo-video/out/
+demo-video/capture/harness.html
+demo-video/public/shots/
+demo-video/public/sfx/
+demo-video/package-lock.json
