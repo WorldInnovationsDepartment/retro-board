@@ -2,6 +2,12 @@
 
 A live Start / Stop / Continue retro board for a team. It runs entirely as a Claude artifact on claude.ai: no server, no hosting. Cards, groups, votes and actions are stored in the artifact's own database; presence, identity and AI grouping come from the artifact runtime.
 
+## Demo
+
+[![Retro Board demo: cards grouped by meaning into themes](docs/demo-poster.png)](docs/demo.mp4)
+
+A 48-second walkthrough: lobby, anonymous cards, Group with AI, voting, ranked results and action items. Click the image to play it, or read the story behind it in [The retro tool I couldn't buy](https://danylovorvul.com/blog/retro-tool-i-couldnt-buy/).
+
 ## Install it in your Claude space
 
 Open Claude Code and say:
